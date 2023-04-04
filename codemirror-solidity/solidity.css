@@ -1,0 +1,19 @@
+.cm-s-solidity span.cm-string { color: rgb(236, 236, 236); }
+.cm-s-solidity span.cm-comment { color:#ffae79!important;  font-style: italic; line-height: 1em; }
+.cm-s-solidity span.cm-meta { color: rgb(238, 237, 237); font-style: italic; line-height: 1em; }
+.cm-s-solidity span.cm-variable { color: #fff; }
+.cm-s-solidity span.cm-variable-2, .cm-s-solidity span.cm-mathematicalAndCryptographic  { color: #ffae79!important; }
+.cm-s-solidity span.cm-version { color: #ffae79!important; }
+.cm-s-solidity span.cm-functionName,.cm-s-solidity span.cm-number,.cm-s-solidity span.cm-etherUnit  { color: #219; }
+.cm-s-solidity span.cm-parameterValue { color: #ffae79!important;}
+.cm-s-solidity span.cm-contractRelated { color:#ffae79!important;}
+.cm-s-solidity span.cm-qualifier, .cm-s-solidity span.cm-addressFunction{ color: rgb(241, 241, 241); }
+.cm-s-solidity span.cm-keyword { color: #fffb73!important;}
+.cm-s-solidity span.cm-builtin , .cm-s-solidity span.cm-docReserve  { color: #30a; }
+.cm-s-solidity span.cm-abi , .cm-s-solidity span.cm-doc { color: rgb(255, 255, 255) }
+.cm-s-solidity span.cm-link { color: #762; }
+.cm-s-solidity span.cm-error { background-color: #fdd; }
+.cm-s-solidity span.cm-atom,.cm-s-solidity span.cm-operator, .cm-s-solidity span.cm-errorHandling { color: rgb(235, 235, 235); }
+
+.cm-s-solidity .CodeMirror-activeline-background { background: #ffffff; }
+.cm-s-solidity .CodeMirror-matchingbracket { outline:1px solid rgb(219, 214, 214); color:rgb(218, 214, 214) !important; }
